@@ -1,0 +1,4 @@
+spring.application.name=Welcome_API
+
+
+server.port=8081
